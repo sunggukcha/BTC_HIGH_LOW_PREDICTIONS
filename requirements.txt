@@ -1,0 +1,8 @@
+ccxt
+matplotlib
+pandas
+pandas_ta
+pytorch_tabnet
+scikit-learn
+sentencepiece
+transformers
